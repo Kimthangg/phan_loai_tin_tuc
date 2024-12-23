@@ -35,7 +35,6 @@ Dữ liệu thu thập cần phải qua nhiều bước xử lý để chuẩn b
    
     <img src="anh/accuracy.png" alt="Mô tả ảnh" width="800">
 
-    <img src="anh/matran.png" alt="Mô tả ảnh" width="300">
     <img src="anh/matran.png" alt="Mô tả ảnh" width="800">
 
 # 4.	Triển khai mô hình lên web
